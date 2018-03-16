@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+# Made by :
+# - Ananda Adiyatma Putra
+# - Satria Adhi Kharisma
+
 import http.client
 import json
 
@@ -74,6 +78,7 @@ def update_mahasiswa(id):
     print(data)
 
 #Panggil fungsi
+#untuk mencoba jalankan satu per satu sesuai kebutuhan
 #add_mahasiswa()
 #del_mahasiswa()
 #get_mahasiswa()
